@@ -1,0 +1,7 @@
+test/a.out
+test/CMakeFiles
+test/CMakeCache.txt
+test/Makefile
+test/MyExecutable
+test/cmake_install.cmake
+test/test
